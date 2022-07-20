@@ -1,5 +1,5 @@
 /** @jsx h */
-import { h } from 'preact';
+import { h, JSX } from 'preact';
 import * as styles from './button.module.less'
 
 type ButtonType = "BUTTON" | "SUBMIT" | "RESET"
